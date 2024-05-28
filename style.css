@@ -101,8 +101,10 @@ body{
 
 
 }
-.btns button box-icon{
-    display: block;
-    height: 20px;
+.btns button span{
+    
+   font-size: 35px;
+   
+   color: aliceblue;
 }
 
